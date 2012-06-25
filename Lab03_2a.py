@@ -23,5 +23,18 @@ while i<6:
     for x in range(1,b):
         print x,
     b=b-1
-    print
+    #print
     i+=1
+    print
+
+
+'''print "\n"
+print "Lab03_2c"
+b=7
+i=0
+while i<6:
+    for x in range(1,b):
+        print x,
+        b=b-1
+    print
+    i+=1'''
